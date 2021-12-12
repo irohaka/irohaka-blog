@@ -7,7 +7,7 @@ archives : ["2021/09"]
 url: /202109_sep-zwift
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング,Zwift" ]
+tags: [ "サイクリング","Zwift" ]
 ---
 
 Zwiftって結構面白いですね（今更…。）    
