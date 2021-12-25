@@ -7,7 +7,7 @@ archives : ["2021/12"]
 url: /202112_rinko
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング","旅行" ]
+tags: [ "自転車のはなし","サイクリング","旅行" ]
 ---
 
 お休みを頂いて石垣島へ行ってきました。    

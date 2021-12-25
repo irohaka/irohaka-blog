@@ -7,7 +7,7 @@ archives : ["2021/11"]
 url: /202111_ginko
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング","Zwift" ]
+tags: [ "自転車のはなし","サイクリング","Zwift" ]
 ---
 
 メタバースの世界から久しぶりに現実世界で走りました。    

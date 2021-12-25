@@ -7,7 +7,7 @@ archives : ["2021/09"]
 url: /202109_sep
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング" ]
+tags: [ "自転車のはなし","サイクリング" ]
 ---
 
 久しぶりに自転車乗りました。    

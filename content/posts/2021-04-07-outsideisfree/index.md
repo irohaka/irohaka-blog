@@ -7,7 +7,7 @@ archives : ["2021/04"]
 url: /202104_outsideisfree
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング" ]
+tags: [ "自転車のはなし","サイクリング" ]
 ---
 
 お休みをいただいてサイクリングに出かけてきました。    

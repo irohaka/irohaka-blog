@@ -7,7 +7,7 @@ archives : ["2021/10"]
 url: /202110_level10
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "サイクリング","Zwift" ]
+tags: [ "自転車のはなし","サイクリング","Zwift" ]
 ---
 
 レベル10になったぞー！（Zwiftの）    
