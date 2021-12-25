@@ -22,7 +22,8 @@ Zwiftって結構面白いですね（今更…。）
 
 ![＊そういえば、起動画面でZwift Companionにリンクするマークをオレンジ色にしないほうが勝手にZwift Companionが起動してくれるみたいです。誤った情報でしたら申し訳ありません。](images/2021-0118-01.jpg)  
 　   
-　  
+{{< amazon category="ama" key="tacx" >}}
+{{< amazon category="ama" key="appletv" >}}  
 　  
 ![IKEAの机にギリギリ乗った。](images/2021-0927-01.jpg)  
 ![ロンドンの平坦コースはClassiqueが短い。](images/2021-0927-02.jpg)  

@@ -54,5 +54,6 @@ Apple Watchが一覧に表示されれば連携できます。そうすると全
 ![マップ選択画面でトレーニングやイベントに参加できます。](images/2021-0118-07.jpg)  
 
 ![今日はシャンゼリゼを走りました。平坦で好き。](images/2021-0118-06.jpg)  
-
-
+　  
+{{< amazon category="ama" key="tacx" >}}
+{{< amazon category="ama" key="appletv" >}}
