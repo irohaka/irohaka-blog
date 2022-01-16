@@ -36,8 +36,9 @@
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "drawer.css" .)) | safeCSS }}
   </style>
-  <link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
-  <link rel="icon" type="image/png" href="/icon-192x192.png">
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="android-touch-icon.png" sizes="192x192">
 </head>
 <body>
    <header>
