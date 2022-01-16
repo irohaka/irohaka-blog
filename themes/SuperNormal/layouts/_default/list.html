@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ with .Site.Params.description }}
+<p class="description">{{ . }}</p>
+{{ end }}
+<section class="indexpage">
+    {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") 8 }}
+    {{ range $paginator.Pages }}
+    <article class="toplist">
+        <figure>
+            {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
+            {{ if $head_img }}
+            {{ $small := $head_img.Fit "255x127 q100" }}
+            <a href="{{ .RelPermalink }}" title="{{ .Title }}"><img src="{{ $small.RelPermalink }}" max-width="255px" max-height="127.5px" alt="{{ .Title }}"></a>
+            {{ else }}
+            <a href="{{ .RelPermalink }}" title="{{ .Title }}"><img src="/images/eyecache.jpg" max-width="255px" max-height="127.5px" alt="{{ .Title }}"></a>
+             {{ end }}
+        </figure>
+           <div class="list-title">
+           <h2 class="list"><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
+          <time>{{.Date.Format "2006年01月02日"}}</time>
+          <a class="summary" href="{{ .RelPermalink }}" title="{{ .Summary }}"><p>{{ .Summary }}</p></a>
+          </div>
+    </article> 
+    {{ end }}
+</section>   
+    <div class="pagination">
+        {{- partial "pagination.html" . -}}
+    </div>
+{{ end }}
+
