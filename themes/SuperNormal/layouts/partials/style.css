@@ -30,11 +30,12 @@ h1 {
   line-height: 1.7;
 }
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: bold;
 }
 
 h2.list a{
+  font-size:1.3rem;
   margin: 2px;
   padding: none;
 }
@@ -55,7 +56,7 @@ h4 {
 
 a {
   text-decoration: none;
-  color: #008dc5;
+  color: hsl(197, 100%, 39%);
 }
 a:hover {
   text-decoration: none;
@@ -70,7 +71,9 @@ a.next {
   padding: 1rem;
 }
 
-
+i{
+  font-style: normal;
+}
 
 .entry_title a{
   color:rgb(47, 156, 245);
@@ -80,10 +83,9 @@ a.next {
 
 
 a.summary {
-  color:rgb(116, 116, 116);
-  font-size:0.95em;
-  margin-top: 5px;
-  padding: 5px 10px 5px 10px;
+  color:rgb(39, 39, 39);
+  font-size:0.8em;
+  padding: 2px 10px 2px 10px;
   
 }
 div.next {
@@ -287,6 +289,8 @@ article.toplist {
   padding:0px;
   margin: 50px 5px 0px 5px;
   border:solid 1px #ccc;
+  border-radius: 4px;
+  
 }
 
 
@@ -477,7 +481,7 @@ footer {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  padding: 13px 15px;
+  padding: 13px 12px;
   border-radius: 30px;
 }
 #page_top a:hover {

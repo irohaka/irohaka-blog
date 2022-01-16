@@ -18,7 +18,7 @@
            <div class="list-title">
            <h2 class="list"><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
           <time>{{.Date.Format "2006年01月02日"}}</time>
-          <a class="summary" href="{{ .RelPermalink }}" title="{{ .Summary }}"><p>{{ .Summary }}</p></a>
+          <a class="summary" href="{{ .RelPermalink }}" title="{{ .Summary }}"><p class="summary">{{ .Summary }}</p></a>
           </div>
     </article> 
     {{ end }}
