@@ -32,5 +32,6 @@ tags: [ "自転車のはなし","Zwift"]
 ![動きが新鮮です。](images/2022-0123-03.jpg)  
 ![遠近感](images/2022-0123-04.jpg)  
 　  
-{{< amazon category="ama" key="tacx" >}}
-{{< amazon category="ama" key="appletv" >}}
+{{< amazon category="ama" key="tacx" >}}  
+{{< amazon category="ama" key="hol" >}}  
+{{< amazon category="ama" key="appletv" >}}  
