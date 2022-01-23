@@ -31,3 +31,6 @@ tags: [ "自転車のはなし","Zwift"]
 ![Repack Ridge入り口。入り口にはMTBが置いてありました。](images/2022-0123-02.jpg)  
 ![動きが新鮮です。](images/2022-0123-03.jpg)  
 ![遠近感](images/2022-0123-04.jpg)  
+　  
+{{< amazon category="ama" key="tacx" >}}
+{{< amazon category="ama" key="appletv" >}}
