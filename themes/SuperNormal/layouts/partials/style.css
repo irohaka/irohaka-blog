@@ -8,8 +8,6 @@ html {
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-  background: #ffffff;
-  font-size: 1.05rem;
   line-height: 200%;
   font-style: normal;
   color: rgb(0, 0, 0);
@@ -106,11 +104,13 @@ body {
   max-width: 100%;
   padding-top: 0;
   margin: auto;
+  background: #eee;
 }
 
 main {
   max-width: 100%;
   margin: auto;
+  
 }
 
 div#content {
@@ -119,6 +119,7 @@ div#content {
   display: flex;
   flex-flow: column;
   justify-content: center;
+  background: #fff;
   padding: 0;
 }
 
@@ -270,9 +271,10 @@ ul.pagination li {
 }
 
 footer {
-  width: 80%;
-  max-width: 1080px;
+  width: 88%;
+  max-width: 1280px;
   margin: 0 auto;
+  background: #fff;
 }
 
 section.indexpage {
@@ -481,7 +483,7 @@ footer {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  padding: 13px 12px;
+  padding: 13px 10px;
   border-radius: 30px;
 }
 #page_top a:hover {
@@ -546,6 +548,17 @@ a.dsq-brlink{
   margin-left:20px;
 }
 
+footer{
+  width:100%;
+  margin:0px auto 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #fff;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
 @media screen and (max-width: 673px) {
   h1#title {
     font-size: 14px;
@@ -574,7 +587,7 @@ a.dsq-brlink{
  body{
    max-width: 100%;
    margin: auto 0;
-    padding: 0;
+   padding: 0;
  }
 
   header {
@@ -593,7 +606,10 @@ a.dsq-brlink{
     margin: auto;
   }
 
-
+ footer{
+   max-width: 98%;
+   margin: auto;
+ }
   img{
     max-width:100%;
     border:1px solid #888;
@@ -634,51 +650,3 @@ a.dsq-brlink{
   }
 }
 
-footer{
-  margin-bottom: 50px;;
-}
-/*
-@media (prefers-color-scheme: light) {
-  html {
-    background-color: #ccc;
-    color: #333;
-  }
-  a {
-    color: #ee5577;
-  }
-
-  table {
-    border: solid 1px #333;
-  }
-
-  table td,
-  table th,
-  table tr {
-    border: solid 1px #333;
-  }
-}
-
-body.light-theme {
-  background: #ccc;
-  color: #333;
-}
-
-table,
-table td,
-table th,
-table tr.light-theme {
-  border: solid 1px #777;
-}
-
-body.dark-theme {
-  background: #2c2c2c;
-  color: #ccc;
-}
-
-table,
-table td,
-table th,
-table tr.dark-theme {
-  border: solid 1px #777;
-}
-*/
