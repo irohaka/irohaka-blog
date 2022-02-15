@@ -35,7 +35,7 @@
   title: "パナレーサー(Panaracer) 携帯空気入れ ミニフロアポンプ BFP-AMAS1 フットステップ装備"
   publisher: "パナレーサー(Panaracer)"
   publishdate: "2017/11"
-  width: "66px"
+  width: "206px"
   height: "215.5px"
 
 "tacx":
@@ -75,5 +75,13 @@
   title: "Tiakia 自転車 スマホ ホルダー"
   publisher: "Tiakia"
   publishdate: "2017/05"
+  width: "206px"
+  height: "335px"
+
+"lez-pomp":
+  asin: "B08374PNDW"
+  title: " LEZYNE(レザイン) ポケットドライブ [POCKET DRIVE LOADED] "
+  publisher: "LEZYNE(レザイン)"
+  publishdate: "2019/12"
   width: "206px"
   height: "335px"
