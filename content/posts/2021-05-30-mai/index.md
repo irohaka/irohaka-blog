@@ -7,7 +7,7 @@ archives : ["2021/05"]
 url: /202105_iris
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "お出かけ" ]
+tags: [ "おでかけ" ]
 ---
 
 5月最後の週末は赤塚山で散歩してきました。    

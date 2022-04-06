@@ -7,7 +7,7 @@ url: /2009_12_13_cyclemode2009
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2009/12"]
-tags: [ "自転車のはなし" ]
+tags: [ "自転車のはなし","おでかけ" ]
 ---
 
 幕張メッセで開催された「サイクルモード・インターナショナル」に行ってきました。

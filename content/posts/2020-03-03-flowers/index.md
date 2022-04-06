@@ -7,7 +7,7 @@ archives : ["2020/03"]
 url: /2020flowers
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: ["お出かけ"]
+tags: ["おでかけ"]
 ---
 
 外は花粉が凄いので外出が億劫になりがちでしたが、花を見に少しお出かけしてました。

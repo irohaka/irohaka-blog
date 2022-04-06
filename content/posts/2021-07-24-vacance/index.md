@@ -7,7 +7,7 @@ archives : ["2021/07"]
 url: /202107_summer
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "お出かけ" ]
+tags: [ "おでかけ" ]
 ---
 
 7月の連休はドライブへ。    

@@ -7,7 +7,7 @@ url: /2010_08_01_colmar
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/08"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
 今日はアルザス地方のコルマールに来ています。

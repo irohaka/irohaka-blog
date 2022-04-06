@@ -7,7 +7,7 @@ archives : ["2020/02"]
 url: /2020spring
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: ["お出かけ"]
+tags: ["おでかけ"]
 ---
 
 大知波の大神山八幡宮にある大知波桜を見に行ってきました。

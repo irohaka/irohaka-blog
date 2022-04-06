@@ -7,7 +7,7 @@ url: /2009_08_24_puydefou
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2009/08"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
 フランス的テーマパーク「Puy de Fou」へ行ってきました。    

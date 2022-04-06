@@ -7,7 +7,7 @@ archives : ["2020/12"]
 url: /202012_wintercomesaround
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "お出かけ" ]
+tags: [ "おでかけ" ]
 ---
 
 毎年楽しみにしている大和の大いちょうを見に行ってきました。

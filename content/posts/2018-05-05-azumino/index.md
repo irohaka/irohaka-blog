@@ -7,7 +7,7 @@ archives : ["2018/05"]
 url: /azumino_cycling
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "自転車のはなし" ]
+tags: [ "自転車のはなし","旅行","サイクリング" ]
 ---
 
 連休を使って長野県の安曇野市へ遊びに行ってきました。天気予報では午後から雨となっていたのですが到着したら天気がなんとか持ちそうだったので軽く走ることに。<!--more-->

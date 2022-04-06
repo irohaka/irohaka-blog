@@ -7,7 +7,7 @@ archives : ["2018/08"]
 url: /coffee_break_okumikawa
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "奥三河" ]
+tags: [ "奥三河","おでかけ" ]
 ---
 
 阿寺にある「紋屋」へ今日はじめて行ってきました。もともと家から近い場所に古民家を改築した喫茶を営んでらっしゃったのですが、阿寺に去年移転されました。場所は本当に阿寺MTBのすぐそばで、高台にある隠れ家のようなお店です。<!--more-->

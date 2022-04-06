@@ -7,7 +7,7 @@ url: /2010_07_25_tourdefrance
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/07"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
 今回のフランス旅行最大の目的、ツール最終日を見にきました。

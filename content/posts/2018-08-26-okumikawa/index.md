@@ -7,7 +7,7 @@ archives : ["2018/08"]
 url: /okumikawa_summer2018
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "奥三河" ]
+tags: [ "奥三河","おでかけ" ]
 ---
 
 今日も朝から気温はぐんぐんと上がっていって暑くて何もする気が起きなかったので、再び涼しい阿寺の紋屋へとランチを食べに行ってきました。

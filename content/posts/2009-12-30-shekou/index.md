@@ -7,7 +7,7 @@ url: /2009_12_30_shekou
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2009/12"]
-tags: [ "中国" ]
+tags: [ "中国","旅行" ]
 ---
 
 今年の年末は中国で過ごすことにしました。

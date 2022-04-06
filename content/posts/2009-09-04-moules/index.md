@@ -7,7 +7,7 @@ url: /2009_09_05_moules
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2009/09"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
 今日はベルギー料理専門店のレオンに行ってきました。

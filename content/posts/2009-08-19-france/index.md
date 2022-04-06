@@ -7,7 +7,7 @@ url: /2009_08_19_france01
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2009/08"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
  フランスのおかあさん的存在のマダムの家に来ています。  

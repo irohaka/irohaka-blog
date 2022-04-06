@@ -7,7 +7,7 @@ url: /2010_07_29_strasbourg
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/07"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行"]
 ---
 
 アルザス地方のストラスブールに来ました。

@@ -7,7 +7,7 @@ url: /2010_07_23_france
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/07"]
-tags: [ "フランス" ]
+tags: [ "フランス","旅行" ]
 ---
 
 数年振りに母を連れてフランスに来ています。

@@ -7,7 +7,7 @@ url: /2010_06_06_fuji-hillclimb
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/06"]
-tags: [ "自転車のはなし" ]
+tags: [ "自転車のはなし","サイクリング" ]
 ---
 
 富士ヒルクライム、何とか無事完走しました。

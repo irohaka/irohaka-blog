@@ -7,7 +7,7 @@ url: /2010_01_02_newyearinchina
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 archives : ["2010/01"]
-tags: [ "中国" ]
+tags: [ "中国","旅行" ]
 ---
 
 あけましておめでとうございます。今年もよろしくお願いします。
