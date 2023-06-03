@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJQRJCYY0W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XJQRJCYY0W');
+</script>
   <meta charset="UTF-8">
   <title>{{if .IsHome}}{{ $.Site.Title }}{{else}}{{.Title}}｜{{ $.Site.Title }}{{end}}</title>
   {{ range .AlternativeOutputFormats -}}
@@ -20,26 +29,6 @@
   {{ partial "opengraph.html" . }}
   {{ partial "twittercard.html" . }}
   {{ template "_internal/schema.html" . }}
-<!--Google AdSense tag-->
-<script data-ad-client="ca-pub-7014159386436390" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58799-9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-58799-9');
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJQRJCYY0W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XJQRJCYY0W');
-</script>
 <style>
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "reseter.min.css" .)) | safeCSS }}
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
