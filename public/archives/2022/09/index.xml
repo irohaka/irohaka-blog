@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022/09 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2022/09/</link>
+    <description>Recent content in 2022/09 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 28 Sep 2022 16:18:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2022/09/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>涼しくなってきました。</title>
+      <link>http://localhost:1313/20220928_sep/</link>
+      <pubDate>Wed, 28 Sep 2022 16:18:00 +0900</pubDate>
+      <guid>http://localhost:1313/20220928_sep/</guid>
+      <description>&lt;p&gt;夏の暑さがようやく終わり、涼しい風が気持ちいいです。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

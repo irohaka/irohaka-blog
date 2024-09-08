@@ -2,27 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://www.irohaka.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://www.irohaka.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/about/</guid>
-      <description>ブログを見ていただきありがとうございます。イロハカです。 大学時代にフランスへ語学留学したことがきっかけで旅行会社に就職して、お客さんを接客し</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;ブログを見ていただきありがとうございます。イロハカです。&lt;/p&gt;&#xA;&lt;p&gt;大学時代にフランスへ語学留学したことがきっかけで旅行会社に就職して、お客さんを接客したり広報や色々な業務にも就く機会を与えられて充実した社会人生活を送っていました。その時は自転車にはまるで縁がない生活で、暇さえあれば海外へと旅行に出かけて現地の情報をできるだけ収集してお客さんに伝えようと半分遊び、半分仕事のような旅行ばかりしていました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>当サイトに掲載されている広告について</title>
-      <link>https://www.irohaka.com/privacy_policy/</link>
+      <link>http://localhost:1313/privacy_policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/privacy_policy/</guid>
-      <description>当サイトに掲載されている広告について 当サイトでは、第三者配信の広告サービス（Googleアドセンス、Amazonアソシエイト）を利用していま</description>
+      <guid>http://localhost:1313/privacy_policy/</guid>
+      <description>&lt;h3 id=&#34;当サイトに掲載されている広告について&#34;&gt;当サイトに掲載されている広告について&lt;/h3&gt;&#xA;&lt;p&gt;当サイトでは、第三者配信の広告サービス（Googleアドセンス、Amazonアソシエイト）を利用しています。&#xA;このような広告配信事業者は、ユーザーの興味に応じた商品やサービスの広告を表示するため、当サイトや他サイトへのアクセスに関する情報 『Cookie』(氏名、住所、メール アドレス、電話番号は含まれません) を使用することがあります。&lt;br&gt;&#xA;またGoogleアドセンスに関して、このプロセスの詳細やこのような情報が広告配信事業者に使用されないようにする方法については、&lt;a href=&#34;https://policies.google.com/technologies/ads?hl=ja&#34; target=&#34;_blank&#34;&gt;こちら&lt;/a&gt;&#xA;をクリックしてください。&lt;br&gt;&#xA;　　&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

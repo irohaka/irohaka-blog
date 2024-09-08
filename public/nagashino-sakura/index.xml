@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>長篠の河津桜を見に行ってきました。 on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/nagashino-sakura/</link>
+    <link>http://localhost:1313/nagashino-sakura/</link>
     <description>Recent content in 長篠の河津桜を見に行ってきました。 on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 08 Mar 2019 08:43:49 +0000</lastBuildDate><atom:link href="https://www.irohaka.com/nagashino-sakura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/nagashino-sakura/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

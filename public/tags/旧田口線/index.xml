@@ -2,37 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>旧田口線 on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/tags/%E6%97%A7%E7%94%B0%E5%8F%A3%E7%B7%9A/</link>
+    <link>http://localhost:1313/tags/%E6%97%A7%E7%94%B0%E5%8F%A3%E7%B7%9A/</link>
     <description>Recent content in 旧田口線 on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 15 Sep 2019 16:45:46 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/%E6%97%A7%E7%94%B0%E5%8F%A3%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2019 16:45:46 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%97%A7%E7%94%B0%E5%8F%A3%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古地図で見る旧田口線</title>
-      <link>https://www.irohaka.com/taguchisencycling/</link>
+      <link>http://localhost:1313/taguchisencycling/</link>
       <pubDate>Sun, 15 Sep 2019 16:45:46 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/taguchisencycling/</guid>
+      <guid>http://localhost:1313/taguchisencycling/</guid>
       <description>&lt;p&gt;田口鐵道（旧田口線）が掲載されている奥三河の地図（昭和5年現在）を見つけたので線路に色を塗ってみました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>長篠の河津桜を見に行ってきました。</title>
-      <link>https://www.irohaka.com/nagashino-sakura/</link>
+      <link>http://localhost:1313/nagashino-sakura/</link>
       <pubDate>Fri, 08 Mar 2019 08:43:49 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/nagashino-sakura/</guid>
-      <description>去年の今頃も同じようなエントリをしたのですが、それから一年経ってしまいました。あっという間のようで結構長い。まだあれから一年しか経っていない</description>
+      <guid>http://localhost:1313/nagashino-sakura/</guid>
+      <description>&lt;p&gt;去年の今頃も同じようなエントリをしたのですが、それから一年経ってしまいました。あっという間のようで結構長い。まだあれから一年しか経っていないように感じます。おかげさまで仕事は3年目を迎えて、なんとか今年も引き続き働けています。とはいうものの、週末は食事以外はほぼ睡眠という状態が続いており外出もおっくうになりがちです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>失われた田口線を求めて〜設楽のほう</title>
-      <link>https://www.irohaka.com/rechercher_extaguchi/</link>
+      <link>http://localhost:1313/rechercher_extaguchi/</link>
       <pubDate>Thu, 04 May 2017 08:48:33 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/rechercher_extaguchi/</guid>
+      <guid>http://localhost:1313/rechercher_extaguchi/</guid>
       <description>&lt;p&gt;いつか行こうと思っているうちに時間はあっという間に経ってしまい、去年から時間が空いてようやく田口線跡を走ることができました。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021/07 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2021/07/</link>
+    <description>Recent content in 2021/07 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 24 Jul 2021 17:01:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2021/07/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夏休み</title>
+      <link>http://localhost:1313/202107_summer/</link>
+      <pubDate>Sat, 24 Jul 2021 17:01:00 +0900</pubDate>
+      <guid>http://localhost:1313/202107_summer/</guid>
+      <description>&lt;p&gt;7月の連休はドライブへ。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

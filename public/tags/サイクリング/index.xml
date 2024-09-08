@@ -2,118 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サイクリング on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/tags/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/tags/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in サイクリング on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 07 Apr 2021 16:12:00 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 16:18:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>涼しくなってきました。</title>
+      <link>http://localhost:1313/20220928_sep/</link>
+      <pubDate>Wed, 28 Sep 2022 16:18:00 +0900</pubDate>
+      <guid>http://localhost:1313/20220928_sep/</guid>
+      <description>&lt;p&gt;夏の暑さがようやく終わり、涼しい風が気持ちいいです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>梅雨明け</title>
+      <link>http://localhost:1313/20220627_tsuyu/</link>
+      <pubDate>Mon, 27 Jun 2022 13:13:00 +0900</pubDate>
+      <guid>http://localhost:1313/20220627_tsuyu/</guid>
+      <description>&lt;p&gt;もう梅雨明け？ 本当に？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>初めての飛行機輪行</title>
+      <link>http://localhost:1313/202112_rinko/</link>
+      <pubDate>Sun, 12 Dec 2021 17:36:00 +0900</pubDate>
+      <guid>http://localhost:1313/202112_rinko/</guid>
+      <description>&lt;p&gt;お休みを頂いて石垣島へ行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>久しぶりの実走</title>
+      <link>http://localhost:1313/202111_ginko/</link>
+      <pubDate>Sat, 27 Nov 2021 18:43:00 +0900</pubDate>
+      <guid>http://localhost:1313/202111_ginko/</guid>
+      <description>&lt;p&gt;メタバースの世界から久しぶりに現実世界で走りました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>レベル10</title>
+      <link>http://localhost:1313/202110_level10/</link>
+      <pubDate>Sat, 30 Oct 2021 11:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202110_level10/</guid>
+      <description>&lt;p&gt;レベル10になったぞー！（Zwiftの）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>無理をしないZwiftの楽しみ方</title>
+      <link>http://localhost:1313/202109_sep-zwift/</link>
+      <pubDate>Sat, 25 Sep 2021 17:02:00 +0900</pubDate>
+      <guid>http://localhost:1313/202109_sep-zwift/</guid>
+      <description>&lt;p&gt;Zwiftって結構面白いですね（今更…。）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9月になりました。</title>
+      <link>http://localhost:1313/202109_sep/</link>
+      <pubDate>Sat, 11 Sep 2021 17:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/202109_sep/</guid>
+      <description>&lt;p&gt;久しぶりに自転車乗りました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>春は過ぎて初夏</title>
-      <link>https://www.irohaka.com/202104_outsideisfree/</link>
+      <link>http://localhost:1313/202104_outsideisfree/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/202104_outsideisfree/</guid>
+      <guid>http://localhost:1313/202104_outsideisfree/</guid>
       <description>&lt;p&gt;お休みをいただいてサイクリングに出かけてきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>雨が降るまえに</title>
-      <link>https://www.irohaka.com/20200712_beforeitrains/</link>
+      <link>http://localhost:1313/20200712_beforeitrains/</link>
       <pubDate>Sun, 12 Jul 2020 15:10:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/20200712_beforeitrains/</guid>
+      <guid>http://localhost:1313/20200712_beforeitrains/</guid>
       <description>&lt;p&gt;久しぶりの晴れ間が気持ち良かったので少し走ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>桜をもとめ東へ西へ</title>
-      <link>https://www.irohaka.com/2020sakura/</link>
+      <link>http://localhost:1313/2020sakura/</link>
       <pubDate>Thu, 26 Mar 2020 16:33:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2020sakura/</guid>
+      <guid>http://localhost:1313/2020sakura/</guid>
       <description>&lt;p&gt;いよいよ市内の桜が本格的に咲き始めたので自転車で見に行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>フランスで自転車に乗りたい</title>
-      <link>https://www.irohaka.com/france-cycling/</link>
+      <link>http://localhost:1313/france-cycling/</link>
       <pubDate>Wed, 11 Mar 2020 17:33:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/france-cycling/</guid>
+      <guid>http://localhost:1313/france-cycling/</guid>
       <description>&lt;p&gt;冬から春にかけてヨーロッパ行きの航空券はいつも安いのですが、今年は無理そう・・・。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>新年初ライド</title>
-      <link>https://www.irohaka.com/2020newyear/</link>
+      <link>http://localhost:1313/2020newyear/</link>
       <pubDate>Sun, 05 Jan 2020 14:49:39 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2020newyear/</guid>
+      <guid>http://localhost:1313/2020newyear/</guid>
       <description>&lt;p&gt;あけましておめでとうございます。今年もよろしくおねがいします。お餅を食べて成長した体を動かしに財賀寺まで走りに行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>牧之原茶畑ライド</title>
-      <link>https://www.irohaka.com/horaibashicycling/</link>
+      <link>http://localhost:1313/horaibashicycling/</link>
       <pubDate>Sun, 08 Dec 2019 17:00:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/horaibashicycling/</guid>
+      <guid>http://localhost:1313/horaibashicycling/</guid>
       <description>&lt;p&gt;静岡県の大井川にかかる木造の橋「蓬莱橋」と牧之原台地に広がる茶畑を訪ねてサイクリングしてきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>紋屋へランチライド</title>
-      <link>https://www.irohaka.com/20191121monyaride/</link>
+      <link>http://localhost:1313/20191121monyaride/</link>
       <pubDate>Thu, 21 Nov 2019 17:43:35 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/20191121monyaride/</guid>
+      <guid>http://localhost:1313/20191121monyaride/</guid>
       <description>&lt;p&gt;秋晴れの中、ロードバイクで紋屋までランチを食べに行ってきました。阿寺へ自転車で行くのは初めてです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>有意義な9月の連休</title>
-      <link>https://www.irohaka.com/somasakacycling/</link>
+      <link>http://localhost:1313/somasakacycling/</link>
       <pubDate>Sun, 15 Sep 2019 16:45:46 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/somasakacycling/</guid>
+      <guid>http://localhost:1313/somasakacycling/</guid>
       <description>&lt;p&gt;まだ日中は30度をこえる日が続いているのですが、なんだか自転車に乗りたくなったので夕日を横目にちょっと走ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>豊川市桜めぐり2019</title>
-      <link>https://www.irohaka.com/toyokawa_sakura/</link>
+      <link>http://localhost:1313/toyokawa_sakura/</link>
       <pubDate>Sun, 07 Apr 2019 08:42:54 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/toyokawa_sakura/</guid>
-      <description>自転車を出して市内の桜を見に出かけました。 東京や名古屋では桜はすでに満開でお花見の話題などをニュースで見かけるのですが、なぜか愛知県東部の桜</description>
+      <guid>http://localhost:1313/toyokawa_sakura/</guid>
+      <description>&lt;p&gt;自転車を出して市内の桜を見に出かけました。&lt;/p&gt;&#xA;&lt;p&gt;東京や名古屋では桜はすでに満開でお花見の話題などをニュースで見かけるのですが、なぜか愛知県東部の桜は満開とは言えない状態です。僕の調べた範囲なので場所によっては満開を迎えているところもあるでしょうけれど、一様に咲くソメイヨシノも場所によって開花状況が違うように感じられます。まぁそれでも今はまだ4月上旬なのでこれくらいが普通なのかもしれませんね。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>安曇野をサイクリング</title>
+      <link>http://localhost:1313/azumino_cycling/</link>
+      <pubDate>Sat, 05 May 2018 07:18:26 +0000</pubDate>
+      <guid>http://localhost:1313/azumino_cycling/</guid>
+      <description>&lt;p&gt;連休を使って長野県の安曇野市へ遊びに行ってきました。天気予報では午後から雨となっていたのですが到着したら天気がなんとか持ちそうだったので軽く走ることに。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>有給を使ってサイクリング</title>
-      <link>https://www.irohaka.com/somasaka_cycling/</link>
+      <link>http://localhost:1313/somasaka_cycling/</link>
       <pubDate>Fri, 13 Apr 2018 10:03:51 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/somasaka_cycling/</guid>
-      <description>年末あたりからの疲労が蓄積されていたのは分かっていたのですが、先週末に起き上がれなくなるくらい寝込んでしまって流石にマズイと思い有給を取りま</description>
+      <guid>http://localhost:1313/somasaka_cycling/</guid>
+      <description>&lt;p&gt;年末あたりからの疲労が蓄積されていたのは分かっていたのですが、先週末に起き上がれなくなるくらい寝込んでしまって流石にマズイと思い有給を取りました。休んだからといって体調が急に回復するわけでもなく、天気が良いのに悶々としていたのですが、父からサイクリングに誘われたので思い切って走ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>杣坂のさらに向こうへ</title>
-      <link>https://www.irohaka.com/beyond_somasaka/</link>
+      <link>http://localhost:1313/beyond_somasaka/</link>
       <pubDate>Sun, 19 Nov 2017 09:06:36 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/beyond_somasaka/</guid>
+      <guid>http://localhost:1313/beyond_somasaka/</guid>
       <description>&lt;p&gt;ロードに乗るのは久しぶりで、前回乗ったのを少し思い出せないほどです。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>本宮山に登ってきました。</title>
+      <link>http://localhost:1313/2016-0302-hongusan/</link>
+      <pubDate>Wed, 02 Mar 2016 15:33:15 +0900</pubDate>
+      <guid>http://localhost:1313/2016-0302-hongusan/</guid>
+      <description>&lt;p&gt;本宮山はしんどい！&lt;/p&gt;</description>
+    </item>
     <item>
       <title>茶臼山に行ってきました。</title>
-      <link>https://www.irohaka.com/chausuyama_ride/</link>
+      <link>http://localhost:1313/chausuyama_ride/</link>
       <pubDate>Fri, 30 Oct 2015 11:33:15 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/chausuyama_ride/</guid>
+      <guid>http://localhost:1313/chausuyama_ride/</guid>
       <description>&lt;p&gt;いつかは行ってみたいと思っていたまま行ってなかった茶臼山まで自転車で行ってきました。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>富士ヒルクライム完走しました。</title>
+      <link>http://localhost:1313/2010_06_06_fuji-hillclimb/</link>
+      <pubDate>Sun, 06 Jun 2010 19:12:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_06_06_fuji-hillclimb/</guid>
+      <description>&lt;p&gt;富士ヒルクライム、何とか無事完走しました。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

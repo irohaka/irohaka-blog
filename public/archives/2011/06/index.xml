@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011/06 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2011/06/</link>
+    <description>Recent content in 2011/06 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 27 Jun 2011 14:33:15 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2011/06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>再び中国からこんにちは</title>
+      <link>http://localhost:1313/2011-06-china/</link>
+      <pubDate>Mon, 27 Jun 2011 14:33:15 +0900</pubDate>
+      <guid>http://localhost:1313/2011-06-china/</guid>
+      <description>&lt;p&gt;Twitterも何もできないのでVPNを利用してブログ更新しています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

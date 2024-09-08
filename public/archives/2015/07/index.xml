@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015/07 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2015/07/</link>
+    <description>Recent content in 2015/07 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 10 Jul 2015 12:33:15 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2015/07/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初夏の北海道！</title>
+      <link>http://localhost:1313/2015-07-hokkaido/</link>
+      <pubDate>Fri, 10 Jul 2015 12:33:15 +0900</pubDate>
+      <guid>http://localhost:1313/2015-07-hokkaido/</guid>
+      <description>&lt;p&gt;久しぶりの北海道ですが、道東は初めて。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021/12 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2021/12/</link>
+    <description>Recent content in 2021/12 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 26 Dec 2021 15:26:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2021/12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>シャオミの電動空気入れの実力は</title>
+      <link>http://localhost:1313/202112_xiaomi/</link>
+      <pubDate>Sun, 26 Dec 2021 15:26:00 +0900</pubDate>
+      <guid>http://localhost:1313/202112_xiaomi/</guid>
+      <description>&lt;p&gt;最近Amazonで見かける電動空気入れを買いました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>初めての飛行機輪行</title>
+      <link>http://localhost:1313/202112_rinko/</link>
+      <pubDate>Sun, 12 Dec 2021 17:36:00 +0900</pubDate>
+      <guid>http://localhost:1313/202112_rinko/</guid>
+      <description>&lt;p&gt;お休みを頂いて石垣島へ行ってきました。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

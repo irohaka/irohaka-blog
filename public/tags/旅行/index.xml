@@ -2,163 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>旅行 on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/tags/%E6%97%85%E8%A1%8C/</link>
+    <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</link>
     <description>Recent content in 旅行 on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Nov 2019 12:31:32 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 17:36:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初めての飛行機輪行</title>
+      <link>http://localhost:1313/202112_rinko/</link>
+      <pubDate>Sun, 12 Dec 2021 17:36:00 +0900</pubDate>
+      <guid>http://localhost:1313/202112_rinko/</guid>
+      <description>&lt;p&gt;お休みを頂いて石垣島へ行ってきました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>尾道・唐津へ行ってきました。</title>
-      <link>https://www.irohaka.com/kyushutrip2019/</link>
+      <link>http://localhost:1313/kyushutrip2019/</link>
       <pubDate>Mon, 11 Nov 2019 12:31:32 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/kyushutrip2019/</guid>
+      <guid>http://localhost:1313/kyushutrip2019/</guid>
       <description>&lt;p&gt;自動車で尾道・厳島神社、門司港・唐津へ行ってきました。初めて行く場所ばかりで今まで知らなかったことを多く知ることができて楽しかったです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>岩村へ行ってきました。</title>
-      <link>https://www.irohaka.com/iwamura-trip/</link>
+      <link>http://localhost:1313/iwamura-trip/</link>
       <pubDate>Sun, 01 Sep 2019 18:45:28 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/iwamura-trip/</guid>
+      <guid>http://localhost:1313/iwamura-trip/</guid>
       <description>&lt;p&gt;いつも暑さを逃れに名倉高原まで行くのですが、今日はさらに稲武の街を抜けて岩村まで遊びにいってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>台湾に行ってきました。（今年2回目）</title>
-      <link>https://www.irohaka.com/201906taiwantrip/</link>
+      <link>http://localhost:1313/201906taiwantrip/</link>
       <pubDate>Sat, 29 Jun 2019 12:43:03 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/201906taiwantrip/</guid>
+      <guid>http://localhost:1313/201906taiwantrip/</guid>
       <description>&lt;p&gt;お休みをいただいて台湾へ遊びに行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>台湾に行ってきました。</title>
-      <link>https://www.irohaka.com/201901taiwan_travel/</link>
+      <link>http://localhost:1313/201901taiwan_travel/</link>
       <pubDate>Wed, 23 Jan 2019 11:10:06 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/201901taiwan_travel/</guid>
+      <guid>http://localhost:1313/201901taiwan_travel/</guid>
       <description>&lt;p&gt;お休みをいただいて台湾に行ってきました。最近自分の中で人気急上昇中です。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>安曇野をサイクリング</title>
+      <link>http://localhost:1313/azumino_cycling/</link>
+      <pubDate>Sat, 05 May 2018 07:18:26 +0000</pubDate>
+      <guid>http://localhost:1313/azumino_cycling/</guid>
+      <description>&lt;p&gt;連休を使って長野県の安曇野市へ遊びに行ってきました。天気予報では午後から雨となっていたのですが到着したら天気がなんとか持ちそうだったので軽く走ることに。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>4年ぶりのフランス（後編）</title>
-      <link>https://www.irohaka.com/france-part2/</link>
+      <link>http://localhost:1313/france-part2/</link>
       <pubDate>Mon, 14 Aug 2017 17:11:48 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/france-part2/</guid>
+      <guid>http://localhost:1313/france-part2/</guid>
       <description>&lt;p&gt;フランスに留学したのはもう23年前のことです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>4年ぶりのフランス（前編）</title>
-      <link>https://www.irohaka.com/france-part1/</link>
+      <link>http://localhost:1313/france-part1/</link>
       <pubDate>Sun, 13 Aug 2017 17:11:48 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/france-part1/</guid>
-      <description>4年ぶりにフランスにやってきました。 目的はオルレアン大学の同窓会を現地で開催するということで、6月終わりくらいにフランス人の友人から「やるか</description>
+      <guid>http://localhost:1313/france-part1/</guid>
+      <description>&lt;p&gt;4年ぶりにフランスにやってきました。&lt;br&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;目的はオルレアン大学の同窓会を現地で開催するということで、6月終わりくらいにフランス人の友人から「やるから来い」と連絡がありました。なぜお盆の真ん中にやるのか疑問でしたが問題は航空券の確保でした。&lt;br&gt;&#xA;お盆のJALのエコノミークラスでパリ行きの空席を見つけましたが30万円くらいで、他に航空券がないかネットで探していたところ中国東方航空が安いことに気づきました。上海経由ですがビジネスクラスでも約21万円＋税金というお値段。しかもエールフランス運航の共同運航便も予約できるみたいなので東方航空には申し訳ないのですが上海以遠はエールフランスのビジネスクラスにしてみました。&#xA;上海からパリへはエアバス社の二階建て飛行機のA380です。はじめてのA380、しかもビジネスクラスとテンションが上がったのですが、上海を出発するのが夜の0時すぎくらい。ラウンジで休憩はしていたものの、夜中にステーキを食べるのは無理だったので食事は断って寝ることにしました。座席は昔のJALのシェルフラットのようなかんじで、横になれるのは大変ありがたかったです。&lt;br&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>台南はいいぞ</title>
-      <link>https://www.irohaka.com/tainan_travel/</link>
+      <link>http://localhost:1313/tainan_travel/</link>
       <pubDate>Fri, 06 Jan 2017 15:46:55 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/tainan_travel/</guid>
+      <guid>http://localhost:1313/tainan_travel/</guid>
       <description>&lt;p&gt;去年一泊だけ滞在した台南の良さを知ってもらおうと、両親を引き連れて再び台南までやってきました。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>初夏の北海道！</title>
+      <link>http://localhost:1313/2015-07-hokkaido/</link>
+      <pubDate>Fri, 10 Jul 2015 12:33:15 +0900</pubDate>
+      <guid>http://localhost:1313/2015-07-hokkaido/</guid>
+      <description>&lt;p&gt;久しぶりの北海道ですが、道東は初めて。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中華海鮮料理を食べに</title>
+      <link>http://localhost:1313/2011-07-chinaseafood/</link>
+      <pubDate>Sun, 03 Jul 2011 15:21:15 +0900</pubDate>
+      <guid>http://localhost:1313/2011-07-chinaseafood/</guid>
+      <description>&lt;p&gt;高級料理に興奮しました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>再び中国からこんにちは</title>
+      <link>http://localhost:1313/2011-06-china/</link>
+      <pubDate>Mon, 27 Jun 2011 14:33:15 +0900</pubDate>
+      <guid>http://localhost:1313/2011-06-china/</guid>
+      <description>&lt;p&gt;Twitterも何もできないのでVPNを利用してブログ更新しています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>コルマール</title>
+      <link>http://localhost:1313/2010_08_01_colmar/</link>
+      <pubDate>Sun, 01 Aug 2010 04:17:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_08_01_colmar/</guid>
+      <description>&lt;p&gt;今日はアルザス地方のコルマールに来ています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ストラスブール</title>
+      <link>http://localhost:1313/2010_07_29_strasbourg/</link>
+      <pubDate>Thu, 29 Jul 2010 23:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_07_29_strasbourg/</guid>
+      <description>&lt;p&gt;アルザス地方のストラスブールに来ました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ツール・ド・フランス最終日</title>
+      <link>http://localhost:1313/2010_07_25_tourdefrance/</link>
+      <pubDate>Mon, 26 Jul 2010 04:05:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_07_25_tourdefrance/</guid>
+      <description>&lt;p&gt;今回のフランス旅行最大の目的、ツール最終日を見にきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>初夏のフランス</title>
+      <link>http://localhost:1313/2010_07_23_france/</link>
+      <pubDate>Fri, 23 Jul 2010 04:05:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_07_23_france/</guid>
+      <description>&lt;p&gt;数年振りに母を連れてフランスに来ています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>謹賀新年！新年快樂！恭喜發財！</title>
+      <link>http://localhost:1313/2010_01_02_newyearinchina/</link>
+      <pubDate>Sat, 02 Jan 2010 02:11:00 +0900</pubDate>
+      <guid>http://localhost:1313/2010_01_02_newyearinchina/</guid>
+      <description>&lt;p&gt;あけましておめでとうございます。今年もよろしくお願いします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>年末は深圳で</title>
+      <link>http://localhost:1313/2009_12_30_shekou/</link>
+      <pubDate>Wed, 30 Dec 2009 23:20:00 +0900</pubDate>
+      <guid>http://localhost:1313/2009_12_30_shekou/</guid>
+      <description>&lt;p&gt;今年の年末は中国で過ごすことにしました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>また食べたいムール貝</title>
+      <link>http://localhost:1313/2009_09_05_moules/</link>
+      <pubDate>Sun, 06 Sep 2009 05:36:00 +0900</pubDate>
+      <guid>http://localhost:1313/2009_09_05_moules/</guid>
+      <description>&lt;p&gt;今日はベルギー料理専門店のレオンに行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Puy de Fou</title>
+      <link>http://localhost:1313/2009_08_24_puydefou/</link>
+      <pubDate>Mon, 24 Aug 2009 03:12:00 +0900</pubDate>
+      <guid>http://localhost:1313/2009_08_24_puydefou/</guid>
+      <description>&lt;p&gt;フランス的テーマパーク「Puy de Fou」へ行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>フランスに着きました。</title>
+      <link>http://localhost:1313/2009_08_19_france01/</link>
+      <pubDate>Wed, 19 Aug 2009 03:12:00 +0900</pubDate>
+      <guid>http://localhost:1313/2009_08_19_france01/</guid>
+      <description>&lt;p&gt;フランスのおかあさん的存在のマダムの家に来ています。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>マカオをぶらりと</title>
-      <link>https://www.irohaka.com/2009_03_20_macau/</link>
+      <link>http://localhost:1313/2009_03_20_macau/</link>
       <pubDate>Fri, 20 Mar 2009 23:16:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2009_03_20_macau/</guid>
+      <guid>http://localhost:1313/2009_03_20_macau/</guid>
       <description>&lt;p&gt;今日はガイド役となって友人達にマカオを案内させてもらいました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>香港・スタンレー</title>
-      <link>https://www.irohaka.com/2009_03_19_hkgstanley/</link>
+      <link>http://localhost:1313/2009_03_19_hkgstanley/</link>
       <pubDate>Thu, 19 Mar 2009 22:40:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2009_03_19_hkgstanley/</guid>
+      <guid>http://localhost:1313/2009_03_19_hkgstanley/</guid>
       <description>&lt;p&gt;友人達が遊びに来るというので香港へ出かけました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>中国民族文化村</title>
-      <link>https://www.irohaka.com/2009_03_15_chinafolksvillage/</link>
+      <link>http://localhost:1313/2009_03_15_chinafolksvillage/</link>
       <pubDate>Sun, 15 Mar 2009 23:12:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2009_03_15_chinafolksvillage/</guid>
+      <guid>http://localhost:1313/2009_03_15_chinafolksvillage/</guid>
       <description>&lt;p&gt;深圳の中国民族文化村に行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>深圳湾口岸</title>
-      <link>https://www.irohaka.com/2009_03_13_shekou2009/</link>
+      <link>http://localhost:1313/2009_03_13_shekou2009/</link>
       <pubDate>Fri, 13 Mar 2009 20:10:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2009_03_13_shekou2009/</guid>
+      <guid>http://localhost:1313/2009_03_13_shekou2009/</guid>
       <description>&lt;p&gt;今日からふたたび中国でしばらく過ごすことにしました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>深圳をプラプラと</title>
-      <link>https://www.irohaka.com/2008_10_06_shekou/</link>
+      <link>http://localhost:1313/2008_10_06_shekou/</link>
       <pubDate>Mon, 06 Oct 2008 18:22:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_10_06_shekou/</guid>
+      <guid>http://localhost:1313/2008_10_06_shekou/</guid>
       <description>&lt;p&gt;アパートから蛇口の街へ散歩にでかけてみました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>香港へパンダを見に行く</title>
-      <link>https://www.irohaka.com/2008_10_hongkongPanda/</link>
+      <link>http://localhost:1313/2008_10_hongkongPanda/</link>
       <pubDate>Sun, 05 Oct 2008 20:06:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_10_hongkongPanda/</guid>
+      <guid>http://localhost:1313/2008_10_hongkongPanda/</guid>
       <description>&lt;p&gt;香港島にあるオーシャンパークへ行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>深圳の蛇口にいます。</title>
-      <link>https://www.irohaka.com/2008_shekoudays1/</link>
+      <link>http://localhost:1313/2008_shekoudays1/</link>
       <pubDate>Sat, 04 Oct 2008 23:20:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_shekoudays1/</guid>
+      <guid>http://localhost:1313/2008_shekoudays1/</guid>
       <description>&lt;p&gt;中国の深圳にある蛇口（ジャコウ）という地区にきております。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>マラッカ観光</title>
-      <link>https://www.irohaka.com/2008_melaka_travel/</link>
+      <link>http://localhost:1313/2008_melaka_travel/</link>
       <pubDate>Thu, 02 Oct 2008 00:15:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_melaka_travel/</guid>
+      <guid>http://localhost:1313/2008_melaka_travel/</guid>
       <description>&lt;p&gt;最近世界遺産にも指定されたマレーシアの古都・マラッカに行ってきました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>クアラルンプール到着</title>
-      <link>https://www.irohaka.com/2008_kul_travel/</link>
+      <link>http://localhost:1313/2008_kul_travel/</link>
       <pubDate>Tue, 30 Sep 2008 06:02:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_kul_travel/</guid>
+      <guid>http://localhost:1313/2008_kul_travel/</guid>
       <description>&lt;p&gt;今日は香港からクアラルンプールへ移動して、無事ホテルにチェックイン。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>香港到着、疲れた・・・。</title>
-      <link>https://www.irohaka.com/2008_hkg-kul/</link>
+      <link>http://localhost:1313/2008_hkg-kul/</link>
       <pubDate>Mon, 29 Sep 2008 00:09:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2008_hkg-kul/</guid>
+      <guid>http://localhost:1313/2008_hkg-kul/</guid>
       <description>&lt;p&gt;香港にやってきました。飛行機に乗っただけなのに疲れた・・・。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

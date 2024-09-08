@@ -2,37 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>おでかけ on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/tags/%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91/</link>
+    <link>http://localhost:1313/tags/%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91/</link>
     <description>Recent content in おでかけ on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 27 Mar 2021 21:30:00 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2024 15:31:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JBCF新城ロードレース</title>
+      <link>http://localhost:1313/20240908/</link>
+      <pubDate>Sun, 08 Sep 2024 15:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/20240908/</guid>
+      <description>&lt;p&gt;新城で公道ロードレースが開催されたので観戦してきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>あけましておめでとう(汗)。もうすぐ来年ですね。</title>
+      <link>http://localhost:1313/20230910/</link>
+      <pubDate>Sun, 10 Sep 2023 17:18:00 +0900</pubDate>
+      <guid>http://localhost:1313/20230910/</guid>
+      <description>&lt;p&gt;生きていますよ・・・！！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>もう冬になってしまいました。</title>
+      <link>http://localhost:1313/20221202_dec/</link>
+      <pubDate>Fri, 02 Dec 2022 16:18:00 +0900</pubDate>
+      <guid>http://localhost:1313/20221202_dec/</guid>
+      <description>&lt;p&gt;気がつけば今年も終わりですね・・・。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>本当の梅雨明け</title>
+      <link>http://localhost:1313/20220731_summer/</link>
+      <pubDate>Sun, 31 Jul 2022 16:13:00 +0900</pubDate>
+      <guid>http://localhost:1313/20220731_summer/</guid>
+      <description>&lt;p&gt;今度こそ本当の梅雨明けっぽい天気です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>加茂の菖蒲園</title>
+      <link>http://localhost:1313/20220528_shobu/</link>
+      <pubDate>Sat, 28 May 2022 16:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/20220528_shobu/</guid>
+      <description>&lt;p&gt;加茂の菖蒲園に行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>いつもとは違う桜の名所へ</title>
+      <link>http://localhost:1313/202204_sakura/</link>
+      <pubDate>Wed, 06 Apr 2022 16:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202204_sakura/</guid>
+      <description>&lt;p&gt;日本は桜の名所が多すぎる。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>花は咲く</title>
+      <link>http://localhost:1313/202203_fleurs/</link>
+      <pubDate>Tue, 29 Mar 2022 14:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202203_fleurs/</guid>
+      <description>&lt;p&gt;お休みに花を愛でにお出かけしてきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>川売（かおれ）の梅と本長篠の河津桜</title>
+      <link>http://localhost:1313/202203_ume/</link>
+      <pubDate>Fri, 18 Mar 2022 16:38:00 +0900</pubDate>
+      <guid>http://localhost:1313/202203_ume/</guid>
+      <description>&lt;p&gt;どちらもちょうど満開で見頃を迎えました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>夏休み</title>
+      <link>http://localhost:1313/202107_summer/</link>
+      <pubDate>Sat, 24 Jul 2021 17:01:00 +0900</pubDate>
+      <guid>http://localhost:1313/202107_summer/</guid>
+      <description>&lt;p&gt;7月の連休はドライブへ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>赤塚山公園の菖蒲</title>
+      <link>http://localhost:1313/202105_iris/</link>
+      <pubDate>Sun, 30 May 2021 17:23:00 +0900</pubDate>
+      <guid>http://localhost:1313/202105_iris/</guid>
+      <description>&lt;p&gt;5月最後の週末は赤塚山で散歩してきました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>春の大井川</title>
-      <link>https://www.irohaka.com/202103_oigawa/</link>
+      <link>http://localhost:1313/202103_oigawa/</link>
       <pubDate>Sat, 27 Mar 2021 21:30:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/202103_oigawa/</guid>
+      <guid>http://localhost:1313/202103_oigawa/</guid>
       <description>&lt;p&gt;家で閉じこもっているだけでは少々つらいので自動車でドライブしてきました。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>いつの間にか冬</title>
+      <link>http://localhost:1313/202012_wintercomesaround/</link>
+      <pubDate>Sun, 13 Dec 2020 14:24:00 +0900</pubDate>
+      <guid>http://localhost:1313/202012_wintercomesaround/</guid>
+      <description>&lt;p&gt;毎年楽しみにしている大和の大いちょうを見に行ってきました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>伊勢詣</title>
-      <link>https://www.irohaka.com/202010_ise_toba/</link>
+      <link>http://localhost:1313/202010_ise_toba/</link>
       <pubDate>Sat, 31 Oct 2020 17:00:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/202010_ise_toba/</guid>
+      <guid>http://localhost:1313/202010_ise_toba/</guid>
       <description>&lt;p&gt;コロナの影響もあって遅ばせながらお伊勢さんに行ってきました。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>花が咲きました。</title>
+      <link>http://localhost:1313/2020flowers/</link>
+      <pubDate>Mon, 02 Mar 2020 22:13:10 +0900</pubDate>
+      <guid>http://localhost:1313/2020flowers/</guid>
+      <description>&lt;p&gt;外は花粉が凄いので外出が億劫になりがちでしたが、花を見に少しお出かけしてました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>大知波のさくら</title>
+      <link>http://localhost:1313/2020spring/</link>
+      <pubDate>Fri, 07 Feb 2020 22:13:10 +0900</pubDate>
+      <guid>http://localhost:1313/2020spring/</guid>
+      <description>&lt;p&gt;大知波の大神山八幡宮にある大知波桜を見に行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥三河の夏休み</title>
+      <link>http://localhost:1313/okumikawa_summer2018/</link>
+      <pubDate>Sun, 26 Aug 2018 11:06:00 +0000</pubDate>
+      <guid>http://localhost:1313/okumikawa_summer2018/</guid>
+      <description>&lt;p&gt;今日も朝から気温はぐんぐんと上がっていって暑くて何もする気が起きなかったので、再び涼しい阿寺の紋屋へとランチを食べに行ってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>紋屋へコーヒーを飲みに</title>
+      <link>http://localhost:1313/coffee_break_okumikawa/</link>
+      <pubDate>Sun, 05 Aug 2018 09:41:11 +0000</pubDate>
+      <guid>http://localhost:1313/coffee_break_okumikawa/</guid>
+      <description>&lt;p&gt;阿寺にある「紋屋」へ今日はじめて行ってきました。もともと家から近い場所に古民家を改築した喫茶を営んでらっしゃったのですが、阿寺に去年移転されました。場所は本当に阿寺MTBのすぐそばで、高台にある隠れ家のようなお店です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>サイクルモード2009</title>
+      <link>http://localhost:1313/2009_12_13_cyclemode2009/</link>
+      <pubDate>Sun, 13 Dec 2009 21:13:00 +0900</pubDate>
+      <guid>http://localhost:1313/2009_12_13_cyclemode2009/</guid>
+      <description>&lt;p&gt;幕張メッセで開催された「サイクルモード・インターナショナル」に行ってきました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>豊橋動物園</title>
-      <link>https://www.irohaka.com/2009_06_02_toyohashi_zoo/</link>
+      <link>http://localhost:1313/2009_06_02_toyohashi_zoo/</link>
       <pubDate>Tue, 02 Jun 2009 20:53:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/2009_06_02_toyohashi_zoo/</guid>
+      <guid>http://localhost:1313/2009_06_02_toyohashi_zoo/</guid>
       <description>&lt;p&gt;かなり久しぶりに豊橋動物園へ行ってきました。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

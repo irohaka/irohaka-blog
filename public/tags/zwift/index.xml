@@ -2,46 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zwift on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/tags/zwift/</link>
+    <link>http://localhost:1313/tags/zwift/</link>
     <description>Recent content in Zwift on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 23 Feb 2021 17:09:00 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/zwift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 18:58:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/zwift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zwiftのトレーニングを楽しむ</title>
+      <link>http://localhost:1313/202202_zwift_training/</link>
+      <pubDate>Mon, 21 Feb 2022 18:58:00 +0900</pubDate>
+      <guid>http://localhost:1313/202202_zwift_training/</guid>
+      <description>&lt;p&gt;お手軽な達成感が長続きします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ZwiftでMTB</title>
+      <link>http://localhost:1313/202201zwift_mtb/</link>
+      <pubDate>Sun, 23 Jan 2022 18:52:00 +0900</pubDate>
+      <guid>http://localhost:1313/202201zwift_mtb/</guid>
+      <description>&lt;p&gt;以前から気になっていたZWIFTのMTBモードを試してみました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>久しぶりの実走</title>
+      <link>http://localhost:1313/202111_ginko/</link>
+      <pubDate>Sat, 27 Nov 2021 18:43:00 +0900</pubDate>
+      <guid>http://localhost:1313/202111_ginko/</guid>
+      <description>&lt;p&gt;メタバースの世界から久しぶりに現実世界で走りました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>レベル10</title>
+      <link>http://localhost:1313/202110_level10/</link>
+      <pubDate>Sat, 30 Oct 2021 11:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202110_level10/</guid>
+      <description>&lt;p&gt;レベル10になったぞー！（Zwiftの）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>無理をしないZwiftの楽しみ方</title>
+      <link>http://localhost:1313/202109_sep-zwift/</link>
+      <pubDate>Sat, 25 Sep 2021 17:02:00 +0900</pubDate>
+      <guid>http://localhost:1313/202109_sep-zwift/</guid>
+      <description>&lt;p&gt;Zwiftって結構面白いですね（今更…。）&lt;/p&gt;</description>
+    </item>
     <item>
       <title>だいたい花粉のせい</title>
-      <link>https://www.irohaka.com/202102_kahun/</link>
+      <link>http://localhost:1313/202102_kahun/</link>
       <pubDate>Tue, 23 Feb 2021 17:09:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/202102_kahun/</guid>
+      <guid>http://localhost:1313/202102_kahun/</guid>
       <description>&lt;p&gt;花粉がひどくて自転車に乗れないので思わずカッとなってペダルを買いました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AppleTVでZwift</title>
-      <link>https://www.irohaka.com/202101_appletv-zwift/</link>
+      <link>http://localhost:1313/202101_appletv-zwift/</link>
       <pubDate>Mon, 18 Jan 2021 20:09:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/202101_appletv-zwift/</guid>
+      <guid>http://localhost:1313/202101_appletv-zwift/</guid>
       <description>&lt;p&gt;最近iPadばかりで動画を見るので、AppleTVをZwiftで再利用することにしました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>FTPテストができない。</title>
-      <link>https://www.irohaka.com/20200725_zwift/</link>
+      <link>http://localhost:1313/20200725_zwift/</link>
       <pubDate>Sat, 25 Jul 2020 17:44:00 +0900</pubDate>
-      
-      <guid>https://www.irohaka.com/20200725_zwift/</guid>
+      <guid>http://localhost:1313/20200725_zwift/</guid>
       <description>&lt;p&gt;FTPテスト開始までのウォーミングアップがキツイです・・・。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AppleWatchの心拍計をZwiftにリンクさせてみました。</title>
-      <link>https://www.irohaka.com/AppleWatchandZwift/</link>
+      <link>http://localhost:1313/AppleWatchandZwift/</link>
       <pubDate>Sun, 06 Jan 2019 13:29:09 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/AppleWatchandZwift/</guid>
+      <guid>http://localhost:1313/AppleWatchandZwift/</guid>
       <description>&lt;p&gt;AppleWatchのリングを完成させるのが思ったより大変だなぁと思っていたところ、Zwiftの心拍計に使えると記事を読んだので試してみました。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

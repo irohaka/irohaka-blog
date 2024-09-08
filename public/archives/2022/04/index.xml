@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022/04 on イロハカの自転車日記</title>
+    <link>http://localhost:1313/archives/2022/04/</link>
+    <description>Recent content in 2022/04 on イロハカの自転車日記</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 07 Apr 2022 15:22:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2022/04/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>コメントの方法について</title>
+      <link>http://localhost:1313/202204_comment/</link>
+      <pubDate>Thu, 07 Apr 2022 15:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202204_comment/</guid>
+      <description>&lt;p&gt;コメントでエラーが出る場合の対処法についてのお知らせです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>いつもとは違う桜の名所へ</title>
+      <link>http://localhost:1313/202204_sakura/</link>
+      <pubDate>Wed, 06 Apr 2022 16:22:00 +0900</pubDate>
+      <guid>http://localhost:1313/202204_sakura/</guid>
+      <description>&lt;p&gt;日本は桜の名所が多すぎる。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

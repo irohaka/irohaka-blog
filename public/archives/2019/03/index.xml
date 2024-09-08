@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2019/03 on イロハカの自転車日記</title>
-    <link>https://www.irohaka.com/archives/2019/03/</link>
+    <link>http://localhost:1313/archives/2019/03/</link>
     <description>Recent content in 2019/03 on イロハカの自転車日記</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://www.irohaka.com/archives/2019/03/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 08 Mar 2019 08:43:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2019/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>長篠の河津桜を見に行ってきました。</title>
-      <link>https://www.irohaka.com/nagashino-sakura/</link>
+      <link>http://localhost:1313/nagashino-sakura/</link>
       <pubDate>Fri, 08 Mar 2019 08:43:49 +0000</pubDate>
-      
-      <guid>https://www.irohaka.com/nagashino-sakura/</guid>
-      <description>去年の今頃も同じようなエントリをしたのですが、それから一年経ってしまいました。あっという間のようで結構長い。まだあれから一年しか経っていない</description>
+      <guid>http://localhost:1313/nagashino-sakura/</guid>
+      <description>&lt;p&gt;去年の今頃も同じようなエントリをしたのですが、それから一年経ってしまいました。あっという間のようで結構長い。まだあれから一年しか経っていないように感じます。おかげさまで仕事は3年目を迎えて、なんとか今年も引き続き働けています。とはいうものの、週末は食事以外はほぼ睡眠という状態が続いており外出もおっくうになりがちです。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
