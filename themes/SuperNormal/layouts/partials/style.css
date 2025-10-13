@@ -558,6 +558,65 @@ footer{
   border-bottom-right-radius: 5px;
 }
 
+.card {
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #fff;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.card-image {
+  flex: 0 0 220px;
+  overflow: hidden;
+}
+
+.card-image img {
+  max-width: 220px;
+  max-height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-body {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem 0;
+  color: #333;
+}
+
+.card-description {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.card-url {
+  font-size: 0.75rem;
+  color: #888;
+  word-break: break-all;
+}
+
+
 
 @media screen and (max-width: 673px) {
   h1#title {

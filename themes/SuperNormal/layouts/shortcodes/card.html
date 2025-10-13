@@ -1,0 +1,17 @@
+{{ $url := .Get "url" }}
+{{ $title := .Get "title" | default "タイトル未設定" }}
+{{ $desc := .Get "description" | default "" }}
+{{ $image := .Get "image" | default "/images/noimage.png" }}
+
+<link rel="stylesheet" href="{{ "css/card.css" | relURL }}">
+
+<a href="{{ $url }}" class="card" target="_blank" rel="noopener">
+  <div class="card-image">
+    <img src="{{ $image }}" alt="{{ $title }}">
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">{{ $title }}</h3>
+    <p class="card-description">{{ $desc }}</p>
+    <span class="card-url">{{ $url }}</span>
+  </div>
+</a>

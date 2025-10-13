@@ -42,9 +42,4 @@ RGT Cyclingの本アプリをスマホにインストールしたら、それを
 　　　
 ![坂が続く・・・](images/rgtcycling_03.jpg)  
 　  　  
-RGT Cyclingオフィシャルサイト  
-{{< raw >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%; padding-top: 120px;"><a href="https://www.rgtcycling.com/" data-iframely-url="//cdn.iframe.ly/iVIZTmA"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>  
-{{< /raw >}}  
-　  
-{{< youtube zON4-kYdfFw >}}  
+
