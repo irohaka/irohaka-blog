@@ -42,5 +42,5 @@ dateFormat = "2006年01月02日"
       autoHeadingIDType = "github"
     [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = false
+      unsafe = true
       xHTML = false
