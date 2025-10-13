@@ -1,6 +1,16 @@
 
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ .Permalink }}images/featured.jpg"/>
+{{- $image := "" -}}
+{{- with .Params.images -}}
+  {{- $image = index . 0 -}}
+{{- else if .Params.featured_image -}}
+  {{- $image = .Params.featured_image -}}
+{{- else if .Site.Params.images -}}
+  {{- $image = index .Site.Params.images 0 -}}
+{{- end -}}
+{{- with $image }}
+<meta name="twitter:image" content="{{ . | absURL }}"/>
+{{- end }}
 
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
