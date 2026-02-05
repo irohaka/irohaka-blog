@@ -2,6 +2,14 @@
 publish = "public"
 command = "hugo --gc --minify"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Content-Security-Policy = "frame-ancestors 'none';"
+
 [context.production.environment]
 HUGO_VERSION = "0.89.4"
 HUGO_ENV = "production"
@@ -28,3 +36,4 @@ HUGO_VERSION = "0.80.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
