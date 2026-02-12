@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJQRJCYY0W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJQRJCYY0W"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-XJQRJCYY0W');
-</script>
+    gtag('config', 'G-XJQRJCYY0W');
+  </script>
   <meta charset="UTF-8">
   <title>{{if .IsHome}}{{ $.Site.Title }}{{else}}{{.Title}}｜{{ $.Site.Title }}{{end}}</title>
   {{ range .AlternativeOutputFormats -}}
@@ -29,33 +30,49 @@
   {{ partial "opengraph.html" . }}
   {{ partial "twittercard.html" . }}
   {{ template "_internal/schema.html" . }}
-<style>
-    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "reseter.min.css" .)) | safeCSS }}
-    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
-    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "drawer.css" .)) | safeCSS }}
+  <style>
+    {
+        {
+        replaceRE " +" " "(replaceRE "\n" ""(partial "reseter.min.css" .)) | safeCSS
+      }
+    }
+
+      {
+        {
+        replaceRE " +" " "(replaceRE "\n" ""(partial "style.css" .)) | safeCSS
+      }
+    }
+
+      {
+        {
+        replaceRE " +" " "(replaceRE "\n" ""(partial "drawer.css" .)) | safeCSS
+      }
+    }
   </style>
   <link rel="icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="android-touch-icon.png" sizes="192x192">
+  <link rel="canonical" href="{{ .Permalink }}">
 </head>
+
 <body>
-   <header>
+  <header>
     <div class="header_left">
-    <input type="checkbox" id="menu-toggle" class="menu-checkbox">
-<label for="menu-toggle" class="menu-button"><span></span></label>
-<div class="drawer-menu">
-  <ul>
-    <li><a href="{{ .Site.BaseURL }}">TOPページ</a></li>
-    <li><a href="{{ .Site.BaseURL }}about/">about</a></li>
-    <li><a href="{{ .Site.BaseURL }}tags/自転車のはなし/">自転車のはなし</a></li>
-    <li><a href="{{ .Site.BaseURL }}tags/旅行/">旅行のはなし</a></li>
-    <li><a href="{{ .Site.BaseURL }}privacy_policy/">privacy_policy</a></li>
-  </ul>
-</div>
-</div>
-    <div class="header_center" ><p><a href="{{ .Site.BaseURL }}" ><img class="blogtitle" src="/img/blogtitle.png"
-          alt="{{ .Site.Title }}"></a></p>
+      <input type="checkbox" id="menu-toggle" class="menu-checkbox">
+      <label for="menu-toggle" class="menu-button"><span></span></label>
+      <div class="drawer-menu">
+        <ul>
+          <li><a href="{{ .Site.BaseURL }}">TOPページ</a></li>
+          <li><a href="{{ .Site.BaseURL }}about/">about</a></li>
+          <li><a href="{{ .Site.BaseURL }}tags/自転車のはなし/">自転車のはなし</a></li>
+          <li><a href="{{ .Site.BaseURL }}tags/旅行/">旅行のはなし</a></li>
+          <li><a href="{{ .Site.BaseURL }}privacy_policy/">privacy_policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="header_center">
+      <p><a href="{{ .Site.BaseURL }}"><img class="blogtitle" src="/img/blogtitle.png" alt="{{ .Site.Title }}"></a></p>
     </div>
     <div class="header_right"></div>
-    </header>
-<main>
+  </header>
+  <main>
