@@ -30,25 +30,14 @@
   {{ partial "opengraph.html" . }}
   {{ partial "twittercard.html" . }}
   {{ template "_internal/schema.html" . }}
-  <style>
-    {
-        {
-        replaceRE " +" " "(replaceRE "\n" ""(partial "reseter.min.css" .)) | safeCSS
-      }
-    }
+  {{ $reseter := resources.Get "css/reseter.min.css" }}
+  <link rel="stylesheet" href="{{ $reseter.Permalink }}">
 
-      {
-        {
-        replaceRE " +" " "(replaceRE "\n" ""(partial "style.css" .)) | safeCSS
-      }
-    }
+  {{ $style := resources.Get "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
 
-      {
-        {
-        replaceRE " +" " "(replaceRE "\n" ""(partial "drawer.css" .)) | safeCSS
-      }
-    }
-  </style>
+  {{ $drawer := resources.Get "css/drawer.css" | minify }}
+  <link rel="stylesheet" href="{{ $drawer.Permalink }}">
   <link rel="icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="android-touch-icon.png" sizes="192x192">
