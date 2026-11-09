@@ -1,2 +1,11 @@
 # ?p=123 などの古いWordPress形式のアクセスをトップページ、あるいは特定の記事へ301リダイレクト
 /  p=:id  /  301!
+
+# トップページと内容が重複するセクション一覧をトップへ集約する (Search Console の重複対策)
+/posts  /  301!
+/posts/  /  301!
+/posts/page/1/  /  301!
+/posts/page/:page/  /page/:page/  301!
+/pages/  /  301!
+/pages/page/1/  /  301!
+/pages/page/:page/  /page/:page/  301!
