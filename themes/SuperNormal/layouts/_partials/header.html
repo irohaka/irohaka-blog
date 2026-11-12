@@ -29,7 +29,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   {{ partial "opengraph.html" . }}
   {{ partial "twittercard.html" . }}
-  {{ template "_internal/schema.html" . }}
+  {{ partial "schema.html" . }}
   {{ $reseter := resources.Get "css/reseter.min.css" }}
   <link rel="stylesheet" href="{{ $reseter.Permalink }}">
 

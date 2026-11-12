@@ -1,6 +1,6 @@
 {{- $key := .Get "key" -}}
 {{- $tag := .Site.Params.amazonJpAffiliate | default "" -}}
-{{- $book := index $.Site.Data.ama $key -}}
+{{- $book := index hugo.Data.ama $key -}}
 
 {{- if $book }}
  {{- $title := $book.title -}}

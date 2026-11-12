@@ -7,8 +7,13 @@
 {{ with .Site.Params.twitter -}}
 <meta name="twitter:site" content="@{{ . }}"/>
 {{ end -}}
-{{ range .Site.Author }}
+{{/* .Site.Author was removed in Hugo 0.156.0. Author info now lives in .Site.Params.author;
+     emit twitter:creator only when it is configured as a map with a twitter handle
+     (with the current config — a plain display name — nothing is emitted, same as before). */}}
+{{ with .Site.Params.author -}}
+{{ if reflect.IsMap . -}}
 {{ with .twitter -}}
 <meta name="twitter:creator" content="@{{ . }}"/>
+{{ end -}}
 {{ end -}}
 {{ end -}}
